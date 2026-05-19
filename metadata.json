@@ -1,0 +1,6 @@
+{
+  "name": "NHS Diagnostics Intelligence",
+  "description": "High-performance AI diagnostics analytics platform for NHS operational leadership, featuring pathology bottleneck analysis and Gemini-powered predictive insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
