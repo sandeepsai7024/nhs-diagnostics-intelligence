@@ -1,6 +1,8 @@
 # NHS Diagnostics Intelligence Platform
 
 A high-performance, enterprise-grade AI-powered healthcare operations dashboard designed for NHS leadership, pathology departments, and diagnostic providers.
+#Live application link :
+https://nhs-diagnostics-intelligence-975650705815.europe-west2.run.app
 
 ## Key Features
 - **Executive Overview**: Real-time KPI clusters for diagnostic backlogs, wait times, and lab utilization.
@@ -39,3 +41,7 @@ npm start
 2. Build the application using `npm run build`.
 3. Start the bundled server using `npm start`.
 4. The server will be accessible at port 3000.
+
+
+
+
